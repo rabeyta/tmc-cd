@@ -2,5 +2,5 @@ apiVersion: v1
 kind: Namespace
 metadata:
   name: robert-sandbox
-spec: {}
-status: {
+  labels:
+      name: robert-sandbox
