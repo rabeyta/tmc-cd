@@ -10,4 +10,4 @@ commonLabels:
 
 resources:
   - robert-sandbox-ns.yaml
-  - tmc-cd-ns.yaml
+  - package-repo.yaml
