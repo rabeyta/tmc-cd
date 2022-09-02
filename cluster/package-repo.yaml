@@ -1,7 +1,7 @@
 apiVersion: packaging.carvel.dev/v1alpha1
 kind: PackageRepository
 metadata:
-  name: tanzu-standard
+  name: tanzu-standard-gitops
   namespace: tanzu-package-repo-global
 spec:
   fetch:
